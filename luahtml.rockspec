@@ -9,6 +9,7 @@ description = {
 	detailed = "A HTML Template Engine for the Lua Programming Language",
 	homepage = "http://github.com/thecodechef/luahtml",
 	license = "MIT",
+	maintainer = "Jeremy Bolding <cyberchefjay@gmail.com>",
 }
 dependencies = {
 	"lua >= 5.1, < 5.4",
