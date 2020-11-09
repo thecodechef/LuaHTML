@@ -1,16 +1,11 @@
-h1. LuaHTML
+h1. luahtml
 
 LuaHTML is a template engine that allows the use of Lua code in your HTML websites.
 It stays close to the Lua philosophy and is easy to use.
 
-h2. License
-
-The code is public domain, you may use it however you like without any attribution or royalties.
-Backports are appreciated, though!
-
 h2. How to install (with LuaRocks)
 
-Run the command _luarocks install http://github.com/TheLinx/LuaHTML/raw/rocks/luahtml-1.1.1-1.rockspec_
+Run the command _luarocks install http://github.com/thecodechef/luahtml/luahtml.rockspec_
 
 h2. How to install (Manually)
 
