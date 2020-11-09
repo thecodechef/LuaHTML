@@ -13,6 +13,10 @@ description = {
 dependencies = {
 	"lua >= 5.1, < 5.4",
 }
+source = {
+    url = "git://github.com/thecodechef/luahtml.git",
+    branch = "1.1.2"
+}
 build = {
     type = "builtin",
     modules = {
